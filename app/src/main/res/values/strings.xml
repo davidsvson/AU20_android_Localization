@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Localization</string>
-    <string name="greeting">Hello and welcome!</string>
+<string name="app_name">Localization</string>
+<string name="greeting">Hello and welcome!</string>
 </resources>
